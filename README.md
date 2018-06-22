@@ -46,3 +46,18 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 19. Implement error handling for undefined variables and out-of-bound array access.
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
+
+
+##Dependencies
+http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
+http://cdn.jsdelivr.net/handlebarsjs/2.0.0/handlebars.min.js
+http://google.com/jsapi
+jasmine-jquery.js
+jasmine.js
+boot.js
+jasmine-html.js
+http://fonts.googleapis.com/css?family=Roboto:400,100,300,700
+
+## How to Run
+1. Clone this repo
+2. Open index.html by your browser.
